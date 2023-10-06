@@ -4,7 +4,7 @@ A simple Pomodoro Timer app built with Python and tkinter.
 ## Output
 
 
-Uploading Pomodoro.mp4…
+https://github.com/sarvesh-2109/Pomodoro-Timer/assets/113255836/9f2bfdbb-ad0b-4d60-b557-ab5c24b2e505
 
 
 
